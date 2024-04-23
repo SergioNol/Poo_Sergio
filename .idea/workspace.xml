@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="579fda49-1c99-4cac-a30a-26cacb64364f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/edu/sergio_nolasco/reto1/process/CalculadoraMetabolsimoBasal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/sergio_nolasco/reto1/process/CalculadoraMetabolsimoBasal.java" afterDir="false" />
-    </list>
+    <list default="true" id="579fda49-1c99-4cac-a30a-26cacb64364f" name="Changes" comment="Este es un commit sobre mi reto 1, que realiza 3 calculos: MetabolismoBasal,MasaCorporalMagra,MasaCorporal" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +19,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "SergioNol"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="e5385695-9a46-413d-b6e2-9d72ef1afe0d" />
+        <option name="url" value="https://github.com/SergioNol/Poo_Sergio.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 8
@@ -56,6 +68,19 @@
       <option name="presentableId" value="Default" />
       <updated>1713453469593</updated>
     </task>
+    <task id="LOCAL-00001" summary="Este es un commit sobre mi reto 1, que realiza 3 calculos: MetabolismoBasal,MasaCorporalMagra,MasaCorporal">
+      <option name="closed" value="true" />
+      <created>1713456157977</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1713456157977</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Este es un commit sobre mi reto 1, que realiza 3 calculos: MetabolismoBasal,MasaCorporalMagra,MasaCorporal" />
+    <option name="LAST_COMMIT_MESSAGE" value="Este es un commit sobre mi reto 1, que realiza 3 calculos: MetabolismoBasal,MasaCorporalMagra,MasaCorporal" />
   </component>
 </project>
