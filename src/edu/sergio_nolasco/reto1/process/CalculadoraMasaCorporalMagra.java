@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class CalculadoraMasaCorporalMagra {
     /**
-     * Aqui se le pide al paciente su peso,estatura y sexo
+     * Aqui se le pide al paciente su peso,estatura y sexo.
      * @param scanner
      */
     public void Calcular(Scanner scanner) {

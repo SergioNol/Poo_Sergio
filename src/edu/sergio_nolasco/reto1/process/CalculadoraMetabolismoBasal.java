@@ -2,7 +2,7 @@ package edu.sergio_nolasco.reto1.process;
 import java.util.Scanner;
 
 /**
- * Aqui se le solicita al paciente o cliente sus datos mèdicos: el peso, altura edad y sexo
+ * Aqui se le solicita al paciente o cliente sus datos mèdicos: el peso, altura edad y sexo.
  */
 public class CalculadoraMetabolismoBasal {
     public void Calcular(Scanner scanner) {

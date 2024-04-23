@@ -6,7 +6,7 @@ public class CLI {
         Scanner scanner = new Scanner(System.in);
 
         /**
-         * Aqui imprime el menu de opciones para el paciente o cliente
+         * Aqui imprime el menu de opciones para el paciente o cliente.
          */
         while (true) {
             System.out.println("Menú:");
