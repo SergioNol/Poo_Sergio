@@ -5,8 +5,8 @@ public class CalculadoraMasaCorporal {
      * Este metodo para calcular el indice de masa corporal de una persona en base a su peso
      * y altura.
      * @param estatura estatura del paciente en cm
-     * @param peso peso del paciente en Kg
-     * @return indice de masa corporal
+     * @param peso peso del paciente en Kg.
+     * @return indice de masa corporal.
      */
     /**
      * Aqui se le solicita al paciente su peso y estatura y ademas se hace el calculo para pasar de cm a metros
