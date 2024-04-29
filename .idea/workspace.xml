@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="579fda49-1c99-4cac-a30a-26cacb64364f" name="Changes" comment="Este es un commit sobre mi reto 1, que realiza 3 calculos: MetabolismoBasal,MasaCorporalMagra,MasaCorporal">
+    <list default="true" id="579fda49-1c99-4cac-a30a-26cacb64364f" name="Changes" comment="Este reto consiste en 2 programas, uno es de compra y venta de cajas, y el otro saca el promedio dependiendo las calificaciones que ingreses.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/sergio_nolasco/reto4/data/pasajero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/sergio_nolasco/reto4/data/pasajero.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +22,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="reto5" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -35,12 +34,6 @@
   }
 }</component>
   <component name="GithubPullRequestsUISettings">
-    <option name="recentNewPullRequestHead">
-      <RepoCoordinatesHolder>
-        <option name="owner" value="SergioNol" />
-        <option name="repository" value="Poo_Sergio" />
-      </RepoCoordinatesHolder>
-    </option>
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
         <option name="accountId" value="e5385695-9a46-413d-b6e2-9d72ef1afe0d" />
@@ -91,31 +84,7 @@
       <option name="project" value="LOCAL" />
       <updated>1713456157977</updated>
     </task>
-    <task id="LOCAL-00002" summary="Este es un commit sobre mi reto 1, que realiza 3 calculos: MetabolismoBasal,MasaCorporalMagra,MasaCorporal">
-      <option name="closed" value="true" />
-      <created>1713886058113</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1713886058113</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Este es un commit sobre mi reto 1, que realiza 3 calculos: MetabolismoBasal,MasaCorporalMagra,MasaCorporal">
-      <option name="closed" value="true" />
-      <created>1713886456181</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1713886456181</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Este es un commit sobre mi reto 1, que realiza 3 calculos: MetabolismoBasal,MasaCorporalMagra,MasaCorporal">
-      <option name="closed" value="true" />
-      <created>1713887187380</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1713887187380</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
