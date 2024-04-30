@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="579fda49-1c99-4cac-a30a-26cacb64364f" name="Changes" comment="Este es un commit sobre mi reto 1, que realiza 3 calculos: MetabolismoBasal,MasaCorporalMagra,MasaCorporal">
+    <list default="true" id="579fda49-1c99-4cac-a30a-26cacb64364f" name="Changes" comment="Este programa le pide al cliente un medicamento por su  nombre, precio y estado de materia, y al final guarda todos los datos y los imprime">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/sergio_nolasco/reto4/data/pasajero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/sergio_nolasco/reto4/data/pasajero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/poo_sergio_nolasco.iml" beforeDir="false" afterPath="$PROJECT_DIR$/poo_sergio_nolasco.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +16,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Class" />
         <option value="Class" />
       </list>
     </option>
