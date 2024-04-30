@@ -1,0 +1,16 @@
+package edu.sergio_nolasco.reto7.process;
+
+
+/**
+ * Clase para la obtener la resta
+ */
+public class Resta extends OperacionAritmetica {
+
+    /**
+     * Metodo para calcular la resta
+     */
+    @Override
+    public double calcular(double n1, double n2) {
+        return n1 - n2;
+    }
+}
