@@ -4,10 +4,10 @@ package edu.sergio_nolasco.reto7.process;
 /**
  * Clase para obtener la potencia
  */
-public class Potencia extends OperacionAritmetica{
+public class Potencia extends Multiplicacion{
 
     /**
-     *  Metodo para calcular la potencia
+     *  Metodo extendido de la clase Multiplicacion para calcular la potencia
      */
     @Override
     public double calcular(double n1, double n2) {

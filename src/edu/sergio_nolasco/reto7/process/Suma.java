@@ -6,7 +6,7 @@ package edu.sergio_nolasco.reto7.process;
 public class Suma extends OperacionAritmetica{
 
     /**
-     * Metodo calcular la suma
+     * Metodo extendido de la clase OperacionAritmetica para calcular la suma
      */
     @Override
     public double calcular(double n1, double n2) {

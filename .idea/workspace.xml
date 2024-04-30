@@ -6,12 +6,13 @@
   <component name="ChangeListManager">
     <list default="true" id="579fda49-1c99-4cac-a30a-26cacb64364f" name="Changes" comment="Este programa le pide al cliente un medicamento por su  nombre, precio y estado de materia, y al final guarda todos los datos y los imprime">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/sergio_nolasco/reto7/process/Division.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/sergio_nolasco/reto7/process/Division.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/sergio_nolasco/reto7/process/Logaritmo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/sergio_nolasco/reto7/process/Logaritmo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/edu/sergio_nolasco/reto7/process/Modulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/sergio_nolasco/reto7/process/Modulo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/edu/sergio_nolasco/reto7/process/Multiplicacion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/sergio_nolasco/reto7/process/Multiplicacion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/sergio_nolasco/reto7/process/OperacionAritmetica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/sergio_nolasco/reto7/process/OperacionAritmetica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/sergio_nolasco/reto7/process/Potencia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/sergio_nolasco/reto7/process/Potencia.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/edu/sergio_nolasco/reto7/process/Resta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/sergio_nolasco/reto7/process/Resta.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/edu/sergio_nolasco/reto7/process/Suma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/sergio_nolasco/reto7/process/Suma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/sergio_nolasco/reto7/ui/CLI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/sergio_nolasco/reto7/ui/CLI.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
