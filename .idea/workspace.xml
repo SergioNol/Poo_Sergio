@@ -4,15 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="579fda49-1c99-4cac-a30a-26cacb64364f" name="Changes" comment="Este programa le pide al cliente un medicamento por su  nombre, precio y estado de materia, y al final guarda todos los datos y los imprime">
+    <list default="true" id="579fda49-1c99-4cac-a30a-26cacb64364f" name="Changes" comment="Este reto corrige errores del anterior ademas de agregar la operacion raiz y poder cambiar la intrerfaz de idioma entre Español e Ingles">
+      <change afterPath="$PROJECT_DIR$/src/edu/sergio_nolasco/evidencia3/process/Computadora.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_29_04_24,_9_27 AM_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_29_04_24__9_27AM__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_30_04_24,_10_10 AM_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_30_04_24__10_10AM__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Merge_at_30_04_24,_9_35 AM_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Merge_at_30_04_24,_9_56 AM_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Merge_at_30_04_24__9_35AM__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Merge_at_30_04_24__9_56AM__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_04_24,_10_59 AM_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_04_24__10_59AM__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_29_04_24,_8_02 AM_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_29_04_24,_8_25 AM_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_29_04_24,_9_27 AM_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_29_04_24__8_02AM__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_29_04_24__8_25AM__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_29_04_24__9_27AM__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_04_24,_10_11 AM_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_04_24__10_11AM__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/sergio_nolasco/reto7/process/Modulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/sergio_nolasco/reto7/process/Modulo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/sergio_nolasco/reto7/process/Multiplicacion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/sergio_nolasco/reto7/process/Multiplicacion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/sergio_nolasco/reto7/process/OperacionAritmetica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/sergio_nolasco/reto7/process/OperacionAritmetica.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/sergio_nolasco/reto7/process/Potencia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/sergio_nolasco/reto7/process/Potencia.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/sergio_nolasco/reto7/process/Resta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/sergio_nolasco/reto7/process/Resta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/sergio_nolasco/reto7/process/Suma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/sergio_nolasco/reto7/process/Suma.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/sergio_nolasco/reto7/ui/CLI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/sergio_nolasco/reto7/ui/CLI.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +42,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="reto8" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -122,11 +134,20 @@
       <option name="project" value="LOCAL" />
       <updated>1713887187380</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Este reto corrige errores del anterior ademas de agregar la operacion raiz y poder cambiar la intrerfaz de idioma entre Español e Ingles">
+      <option name="closed" value="true" />
+      <created>1714494419687</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1714494419687</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Este es un commit sobre mi reto 1, que realiza 3 calculos: MetabolismoBasal,MasaCorporalMagra,MasaCorporal" />
-    <option name="LAST_COMMIT_MESSAGE" value="Este es un commit sobre mi reto 1, que realiza 3 calculos: MetabolismoBasal,MasaCorporalMagra,MasaCorporal" />
+    <MESSAGE value="Este reto corrige errores del anterior ademas de agregar la operacion raiz y poder cambiar la intrerfaz de idioma entre Español e Ingles" />
+    <option name="LAST_COMMIT_MESSAGE" value="Este reto corrige errores del anterior ademas de agregar la operacion raiz y poder cambiar la intrerfaz de idioma entre Español e Ingles" />
   </component>
 </project>
